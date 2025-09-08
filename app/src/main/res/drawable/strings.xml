@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <string android:name="create_account"
+        tools:ignore="ExtraText">Create Account</string>
+    <string android:name="login_account">Login</string>
+</resources>
